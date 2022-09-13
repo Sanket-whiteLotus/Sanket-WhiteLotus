@@ -6,5 +6,5 @@
 - 💬 Ask me about REACT Js  
 - 📫 How to reach me:  [github](https://github.com/Sanket-whiteLotus)
 - 😄 Pronouns: Lotus
-- ⚡ Fun fact: "do not give up on your dream always keep dreaming"
+- ⚡ Fun fact: "do not give up on your dream always keep sleeping"
 
